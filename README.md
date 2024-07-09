@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **WEB DEV and DSA**
 
-- 💬 Ask me about **I'm Batman**
+- 💬 About me : **I'm Batman**
 
 - 📫 How to reach me : **Gotham City**
 
