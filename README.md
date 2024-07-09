@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pfps.gg/banners/9147-dark-n-purple-sky-banner.gif)
+![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/72170232/lofiboygif.6.gif">
