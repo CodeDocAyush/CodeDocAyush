@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **WEB DEV and DSA**
 
-- 💬 About me : **I'm Batman**
+- 💬 About me : **I'm a curious person who is interested in AI and Cloud Computing, and in future i would like to explore cyber security and many other domains...**
 
-- 📫 How to reach me : **Gotham City**
+- 📫 How to reach me : **Contact me through my LinkdIn or Email**
 
 - ⚡ Fun fact **Im also an musician who loves to Camp and Cook**
 
