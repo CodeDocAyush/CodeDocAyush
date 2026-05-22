@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **WEB DEV and DSA**
 
-- 💬 About me : **I'm a curious person who is interested in AI and Cloud Computing, and in future i would like to explore cyber security and many other domains...**
+- 💬 About me : **I'm Ayush from India, a CS student aspiring to become a software engineer in the future. Apart from the CS world, I'm also an active cadet of the National Cadet Corps**
 
 - 📫 How to reach me : **Contact me through my LinkdIn or Email**
 
-- ⚡ Fun fact **Im also an musician who loves to Camp and Cook**
+- ⚡ Fun fact **I'm also a musician, as my passion for it runs deep in my veins, also, I love to Camp and Cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
